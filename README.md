@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeshika Kakkar</h1>
-<h3 align="center">Aspiring Data Analyst | Web Developer | Data Storyteller  | Problem Solver</h3>
+<h3 align="center">Data Analyst | Web Developer | Data Storyteller  | Problem Solver</h3>
 
 <p align="center">
   <img 
