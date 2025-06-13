@@ -56,6 +56,18 @@
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white"/>
 </p>
 
+### 🌍 Languages & Tools – Proficiency Overview
+
+| Skill         | Proficiency |
+|---------------|-------------|
+| **SQL**       | ██████████░ 90% |
+| **Power BI**  | █████████░░ 85% |
+| **Tableau**   | ████████░░░ 75% |
+| **Python**    | ███████░░░░ 70% |
+| **Excel**     | █████████░░ 85% |
+| **JavaScript**| ██████░░░░░ 60% |
+| **HTML/CSS**  | ██████████░ 90% |
+
 ---
 
 ### 📂 Featured Projects
@@ -71,6 +83,18 @@
 #### 🛒 [Amazon Clone](https://yeshika06.github.io/Amazon-Clone/)  
 → Responsive front-end e-commerce UI  
 → Perfect Lighthouse accessibility score (100)
+
+#### 🛍️ [Ecommerce Website](https://github.com/yeshika06/Ecommerce-Website)  
+→ Fully responsive and interactive online store built with HTML & CSS  
+→ Modern UI/UX showcasing featured products and promotional banners  
+
+#### 🎬 [Netflix Dashboard](https://github.com/yeshika06/Netflix-Dashboard)  
+→ Interactive data visualization using Power BI  
+→ Explored Netflix content trends, ratings, genres, and production insights  
+
+#### 🎓 [Educational Landing Page](https://github.com/yeshika06/Educational-Landing-Page)  
+→ Built using HTML, CSS & JavaScript  
+→ Eye-catching design with smooth scroll, responsive layout, and call-to-action buttons  
 
 ---
 
