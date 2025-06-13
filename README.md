@@ -13,10 +13,10 @@
 
 ### 💁‍♀️ About Me
 
-🎓 Completed B.Tech in Computer Science Engineering from **GTBIT, IPU Delhi** 
-📊 I turn raw data into business insights using **Power BI, SQL, Excel & Python**  
-🛠️ I also create clean, accessible front-end UIs  
-📈 Passionate about analytics, storytelling, and decision science  
+🎓 Completed B.Tech in Computer Science Engineering from **GTBIT, IPU Delhi** <br>
+📊 I turn raw data into business insights using **Power BI, SQL, Excel & Python**<br>
+🛠️ I also create clean, accessible front-end UIs<br>
+📈 Passionate about analytics, storytelling, and decision science<br> 
 🌱 Currently exploring advanced dashboarding and automation tools  
 
 ---
@@ -71,10 +71,6 @@
 #### 🛒 [Amazon Clone](https://yeshika06.github.io/Amazon-Clone/)  
 → Responsive front-end e-commerce UI  
 → Perfect Lighthouse accessibility score (100)
-
----
-
-### 📊 GitHub at a Glance
 
 ---
 
